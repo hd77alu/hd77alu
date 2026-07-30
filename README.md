@@ -52,7 +52,7 @@ My name is **Hamed**, a Software Engineering student at **The African Leadership
 
 **[East Africa Community Climate Risk Index](https://github.com/hd77alu/eac-climate-risk-index)**
 
-A climate-risk classification workflow for EAC countries using monthly World Bank Climate Change Knowledge Portal data to predict `tx84rr`, a temperature-based excess mortality indicator converted into a three-class vulnerability label.
+A climate-risk classification workflow for EAC countries to predict the temperature-based excess mortality indicator converted into a three-class vulnerability label.
 
 `Python` `Scikit-learn` `Deep Learning` `Feature Engineering`
 
