@@ -48,16 +48,16 @@ My name is **Hamed**, a Software Engineering student at **The African Leadership
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **[East Africa Community Climate Risk Index](https://github.com/hd77alu/eac-climate-risk-index)**
 
-A climate-risk classification workflow for EAC countries using monthly World Bank Climate Change Knowledge Portal data. Combines EDA, preprocessing, and feature engineering with two model families — classical tree-based classifiers and deep neural networks — to predict `tx84rr`, a temperature-based excess mortality indicator converted into a three-class vulnerability label.
+A climate-risk classification workflow for EAC countries using monthly World Bank Climate Change Knowledge Portal data to predict `tx84rr`, a temperature-based excess mortality indicator converted into a three-class vulnerability label.
 
 `Python` `Scikit-learn` `Deep Learning` `Feature Engineering`
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **[Wildfire-Sentinel-MLOps](https://github.com/hd77alu/wildfire-sentinel-mlops)**
 
@@ -66,20 +66,13 @@ A scalable, containerized MLOps pipeline for real-time wildfire detection from s
 `FastAPI` `Streamlit` `MobileNet` `Docker Compose` `MLOps`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **[CO2 Emissions Predictor](https://github.com/hd77alu/linear_regression_model)**
 
 Uses historical country-level CO2 emissions and socioeconomic indicators (2000–2020) to build a model predicting total CO2 emissions excluding LUCF in East Africa.
 
 `Python` `Regression` `Time Series` `Data Analysis`
-
-</td>
-<td width="50%" valign="top">
-
-&nbsp;
 
 </td>
 </tr>
@@ -91,7 +84,7 @@ Uses historical country-level CO2 emissions and socioeconomic indicators (2000�
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **[TechMap](https://github.com/hd77alu/techmap)**
 
@@ -100,7 +93,7 @@ A responsive web application designed to empower Software Engineering students b
 `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `Chart.js` `Leaflet.js` `SQLite3`
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **[EastAfrica ClimateHub](https://github.com/hd77alu/eaf_climate_hub)**
 
@@ -109,20 +102,13 @@ A comprehensive web platform providing reliable climate insights across East Afr
 `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `Passport Google-OAuth` `Chart.js` `SQLite3`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **[Storycast](https://github.com/hd77alu/storycast)**
 
 A website showcasing stories documenting climate change impacts across Africa. Features three main pages with full accessibility support, responsive design, and container queries.
 
 `HTML` `CSS` `JavaScript` `Accessibility` `Container Queries`
-
-</td>
-<td width="50%" valign="top">
-
-&nbsp;
 
 </td>
 </tr>
